@@ -1,0 +1,4 @@
+venv
+DeviceList-*
+sw*.txt
+env copy.*
